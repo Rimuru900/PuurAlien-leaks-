@@ -2,7 +2,7 @@ local script_key = "mah17JAG81sbahfy8hdbJgs"
 local user_key = "mah17JAG81sbahfy8hdbJgs" -- replace this with the key you want to check
 
 if user_key == script_key then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Rimuru900/PuurAlien-Script/refs/heads/main/PuurAlien%20leaks"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Rimuru900/PuurAlien-leaks-/refs/heads/main/PuurAlien%20leaks"))()
 else
 game.Players.LocalPlayer:Kick("Invalid key")
 end
